@@ -54,7 +54,7 @@ http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46556?
 #EXTINF:0 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/104529?checkedby:iptvcat.com
 #EXTINF:0 group-title="Ulusal" tvg-id="teve2.tr" tvg-name="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" ,Teve 2 HD
-http://aslanvip.mneprox.com:8080/faruk08/faruk0808/97594?
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="A2TV.tr" tvg-name="a2 TV TR" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" ,A2
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/97595?checkedby:iptvcat.com
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikacocuk.tr" tvg-name="minikacocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" ,MİNİKA ÇOCUK
@@ -65,10 +65,12 @@ http://103.194.169.171:8282/TR:minika_go/mono.m3u8?token=93a611c10082e5eec57f8be
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46611?checkedby:iptvcat.com
 #EXTINF:0 group-title="MUZİK" tvg-id="KRALTV.TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:0 group-title="Muzik" tvg-id="KRALPop.tr" tvg-logo="https://s2.dmcdn.net/v/6SpLz1Vj9EXG2Ptx-/x1080" tvg-logo-small="https://s2.dmcdn.net/v/6SpLz1Vj9EXG2Ptx-/x1080" ,KRAL POP TV
+#EXTINF:0 group-title="MUZİK" tvg-id="KRALPop.tr" tvg-logo="https://s2.dmcdn.net/v/6SpLz1Vj9EXG2Ptx-/x1080" tvg-logo-small="https://s2.dmcdn.net/v/6SpLz1Vj9EXG2Ptx-/x1080" ,KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="powerTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" ,POWERTURK TV HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:0 group-title="MUZİK" tvg-id="powertv.tr" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" ,Power TV HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,Tlc HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="Dmax.tr" tvg-name="Dmax" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" ,Dmax Hd
