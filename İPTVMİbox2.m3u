@@ -63,13 +63,15 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/3740?
 http://103.194.169.171:8282/TR:minika_go/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.comcheckedby:iptvcat.com
 #EXTINF:0 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://cdn.digiturkburada.com/kanal2/disney-channel.png" tvg-logo-small="https://cdn.digiturkburada.com/kanal2/disney-channel.png" ,DİSNEY CHANNEL
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/46611?checkedby:iptvcat.com
-#EXTINF:0 group-title="ÇOCUK" tvg-name="BOOMerang Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" ,BOOMERANG HD
-http:\\iptvvi.com:80\Bektash\qNvXcDD98fPC\8740?checkedby:iptvcat.com
-#EXTINF:0 group-title="Ulusal" tvg-name="TRT 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-4k-tr.png" tvg-logo-small="https://www.lyngsat-logo.com/logo/tv/tt/trt-4k-tr.png" ,TRT 4K
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/4684?checkedby:iptvcat.com
 #EXTINF:0 group-title="MUZİK" tvg-id="KRALTV.TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="Muzik" tvg-id="KRALPop.tr" tvg-logo="https://s2.dmcdn.net/v/6SpLz1Vj9EXG2Ptx-/x1080" tvg-logo-small="https://s2.dmcdn.net/v/6SpLz1Vj9EXG2Ptx-/x1080" ,KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="powerTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" ,POWERTURK TV HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:0 group-title="Yaşam" tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,Tlc HD
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 group-title="Belgesel" tvg-id="Dmax.tr" tvg-name="Dmax" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" ,Dmax Hd
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0 group-title="Belgesel" tvg-id="yabanTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
