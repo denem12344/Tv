@@ -1,19 +1,19 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="Ulusal" tvg-id="Trt1.tr" tvg-name="trt1 tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" tvg-logo-small="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" ,TRT 1
-https://upload.wikimedia.org/wikipedia/tr/9/95/TRT_1_logosu_%282001-2009%29.png
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" tvg-logo-small="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" ,TRT HABER HD
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="TRT3Spor.tr" tvg-name="TRT 3 Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/54/TRT_3_logosu_%282005-2009%29.gif" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/5/54/TRT_3_logosu_%282005-2009%29.gif" ,TRT SPOR HD
+#EXTINF:0 group-title="Ulusal" tvg-id="TRT3Spor.tr" tvg-name="TRT 3 Spor" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trtspor.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/trtspor.png" ,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/ab/20211217152855%21TRT_%C3%87ocuk_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/a/ab/20211217152855%21TRT_%C3%87ocuk_logo.png" ,TRT ÇOCUK
+#EXTINF:0 group-title="Ulusal" tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_cocuk.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/trt_cocuk.png" ,TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c5/TRT_T%C3%BCrk_logosu_%282009-2015%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/c/c5/TRT_T%C3%BCrk_logosu_%282009-2015%29.png" ,TRT TURK
+#EXTINF:0 group-title="Ulusal" tvg-id="TRTTurk.tr" tvg-name="TRT Turk TR" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trtturk_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/trtturk_logonew.png" ,TRT TURK
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="starTV.tr" tvg-name="Star Tv türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/01/Startv_hd.gif" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/0/01/Startv_hd.gif" ,Star Tv HD
+#EXTINF:0 group-title="Ulusal" tvg-id="starTV.tr" tvg-name="Star Tv türkiye" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/star_tv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/star_tv.png" ,Star Tv HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/522px-Kanal_D_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/522px-Kanal_D_logo.svg.png" ,Kanal D HD
+#EXTINF:0 group-title="Ulusal" tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal_d.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal_d.png" ,Kanal D HD
 http://dontuse.fluxz.cc:80/asNeYk5x/g4s5FeWg/89703?
-#EXTINF:0 group-title="Ulusal" tvg-id="showtv.tr" tvg-name="Show Tv" tvg-logo="https://galeri14.uludagsozluk.com/876/show-tv_1818013.png" tvg-logo-small="https://galeri14.uludagsozluk.com/876/show-tv_1818013.png" ,Show Tv Hd
+#EXTINF:0 group-title="Ulusal" tvg-id="showtv.tr" tvg-name="Show Tv" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png" ,Show Tv Hd
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATVTurkiye.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" ,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
@@ -21,7 +21,7 @@ https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
 http://190.115.29.22:8080/carter/GUV1bMq2VK/3711?
 #EXTINF:0 group-title="Ulusal" tvg-id="kanal7.tr" tvg-name="kanal 7" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" ,Kanal 7 HD
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2f/Tv8_logosu_%282003-2009%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/2/2f/Tv8_logosu_%282003-2009%29.png" ,TV8 HD
+#EXTINF:0 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" ,TV8 HD
 http://aslanvip.mneprox.com:8080/faruk08/faruk0808/97590?checkedby:iptvcat.com
 #EXTINF:0 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/beyaz_tv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/beyaz_tv.png" ,Beyaz Tv HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
