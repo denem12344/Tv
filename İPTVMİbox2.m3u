@@ -39,11 +39,11 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playist.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="haberglobal.tr" tvg-name="haberglobal.tr" tvg-logo="https://s.haberglobal.com.tr/frontend/assets/v2/images/logo.png" tvg-logo-small="https://s.haberglobal.com.tr/frontend/assets/v2/images/logo.png" ,Haber Global Hd
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:0 group-title="Haber" tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ulkehd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ulkehd_logonew.png" ,Ülke Tv
+#EXTINF:0 group-title="Haber" tvg-id="UlkeTV.tr" tvg-name="Ülke TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/1280px-%C3%9Clke_TV_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%C3%9Clke_TV_logo.svg/1280px-%C3%9Clke_TV_logo.svg.png" ,Ülke Tv
 http://190.115.29.22:8080/carter/GUV1bMq2VK/3721?checkedby:iptvcat.com
 #EXTINF:0 group-title="Haber" tvg-id="tvnet.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tvnet.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tvnet.png" ,Tvnet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0 group-title="Haber" tvg-id="bloomberg ht.tr" tvg-name="bloomberg ht.tr" audio-track="https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png" ,BLOOMBERG  HT HD
+#EXTINF:0 group-title="Haber" tvg-id="bloomberg ht.tr" tvg-name="bloomberg ht.tr" tvg-logo="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" tvg-logo-small="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" ,BLOOMBERG  HT HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="halktv.tr" tvg-name="halktv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" ,Halk Tv HD
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
