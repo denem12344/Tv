@@ -62,7 +62,7 @@ https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" ,Tele 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
-http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37898?checkedby:iptvcat.com
+https://livex458745.livestreamlive.xyz/ucankus.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="teve2.tr" tvg-name="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" ,Teve 2 HD
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="A2TV.tr" tvg-name="a2 TV TR" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" ,A2
@@ -85,3 +85,5 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="dreamtürk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" ,Dream Türk HD
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="MUZİK" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
