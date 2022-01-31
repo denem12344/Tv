@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:0 group-title="Ulusal" ,ULUSAL
+ULUSAL
 #EXTINF:0 group-title="Ulusal" tvg-id="Trt1.tr" tvg-name="trt1 tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" tvg-logo-small="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" tvg-logo-small="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" ,TRT HABER HD
@@ -23,20 +25,30 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" ,TV8 HD
 http://mugla.tvizlehd.com/live/tv8720.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="360.tr" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" ,360 TV HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" ,Beyaz Tv HD
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="flash.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Yaşam" ,Yaşam
+Yaşam
+#EXTINF:0 group-title="Yaşam" tvg-id="womantv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,WM TV WOMAN KADIN
+https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,Tlc HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 group-title="Belgesel" ,Belgesel
+Belgesel
 #EXTINF:0 group-title="Belgesel" tvg-id="Dmax.tr" tvg-name="Dmax" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" ,Dmax Hd
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="yabanTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 group-title="Belgesel" tvg-id="beiniZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
-http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37960?checkedby:iptvcat.com
 #EXTINF:0 group-title="Belgesel" tvg-id="natgeo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NET GEO HD 4K
 http://red.ipfox.org:8080/1234/12345678/2803?checkedby:iptvcat.com
-#EXTINF:0 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" ,Beyaz Tv HD
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="360.tr" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" ,360 TV HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0 group-title="Belgesel" tvg-id="beiniZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37960?checkedby:iptvcat.com
+#EXTINF:0 group-title="Haber" ,Haber
+Haber
 #EXTINF:0 group-title="Haber" tvg-id="CNNTurk.us" tvg-name="CNN TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" ,CNN TURK HD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" ,NTV HD
@@ -61,16 +73,22 @@ https://halktv-live.ercdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" ,Tele 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 group-title="Ulusal" ,Ulusal 2
+Ulusal 2
 #EXTINF:0 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
 https://livex458745.livestreamlive.xyz/ucankus.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="teve2.tr" tvg-name="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" ,Teve 2 HD
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="A2TV.tr" tvg-name="a2 TV TR" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" ,A2
 http://84.22.33.214/A2/index.m3u8
+#EXTINF:0 group-title="ÇOCUK" ,Çocuk
+Çocuk
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikacocuk.tr" tvg-name="minikacocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" ,MİNİKA ÇOCUK
 https://lives2.canlitv.center/minikacocuk.m3u8
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikago.tr" tvg-name="minikago.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" ,MİNİKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:0 group-title="MUZİK" ,Muzik
+Muzik
 #EXTINF:0 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" ,DİSNEY CHANNEL
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="MUZİK" tvg-id="KRALTV.TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
@@ -87,7 +105,31 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
-#EXTINF:0 group-title="Yaşam" tvg-id="womantv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,WM TV WOMAN KADIN
-https://s01.vpis.io/wmtv/wmtv.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="flash.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:0 ,Radyolar
+Radyolar
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" ,Alem Fm
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:0 group-title="Radyo" tvg-logo="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" tvg-logo-small="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" ,Baba Radyo
+http://46.20.7.116/babaradyoaac
+#EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20191115164648%21Best_FM.pnghttps://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20191115164648%21Best_FM.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20191115164648%21Best_FM.png" ,Best FM
+http://46.20.7.125/bestfmaac
+#EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20111019104050%21Radyo_Fenomen_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20111019104050%21Radyo_Fenomen_logosu.png" ,Radyo Fenomen
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:0 group-title="Radyo" tvg-logo="https://muzrad.com/wp-content/uploads/2015/10/muzrad_istanbul-fm-secimin-nabzini-tutacak.jpg" tvg-logo-small="https://muzrad.com/wp-content/uploads/2015/10/muzrad_istanbul-fm-secimin-nabzini-tutacak.jpg" ,İstanbul FM
+https://stream2.rtvtakip.com:7000/stream?icy=http
+#EXTINF:0 group-title="Radyo" tvg-logo="https://uk.radio.net/images/broadcasts/60/97/6790/c300.png" tvg-logo-small="https://uk.radio.net/images/broadcasts/60/97/6790/c300.png" ,Joy Turk
+https://17773.live.streamtheworld.com/JOY_TURKAAC.aac
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.pnghttps://www.canliradyodinle.fm/wp-content/uploads/kral-fm.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.png" ,İlaç Gibi Radyo Kral FM
+http://kralwmp.radyotvonline.com/;
+#EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" ,Kral Pop
+http://kralpopwmp.radyotvonline.com/;
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.onlineradyodinle.com.tr/kanal/number-1-turk-fm.png" tvg-logo-small="https://www.onlineradyodinle.com.tr/kanal/number-1-turk-fm.png" ,NumberOneTürk Radyo
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ce/NTV_Radyo_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/c/ce/NTV_Radyo_logosu.png" ,Ntv Radyo
+http://ntvrdwmp.radyotvonline.com/;
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-canli.png" ,POWERTÜRK FM
+https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e7/Showradyo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/e/e7/Showradyo.jpg" ,Show Radyo
+http://46.20.3.229/;
+#EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TRT_FM_logo.png/640px-TRT_FM_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TRT_FM_logo.png/640px-TRT_FM_logo.png" ,TRT FM
+https://radio-trtfm.live.trt.com.tr/master.m3u8
