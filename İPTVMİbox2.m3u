@@ -133,3 +133,5 @@ https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
 http://46.20.3.229/;
 #EXTINF:0 group-title="Radyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TRT_FM_logo.png/640px-TRT_FM_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TRT_FM_logo.png/640px-TRT_FM_logo.png" ,TRT FM
 https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:0 ,Test
+https://youtu.be/KCDy0ITa4UY
