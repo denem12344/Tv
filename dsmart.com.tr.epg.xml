@@ -17,7 +17,7 @@
 <channel id="CNNInternationalEurope.us"><display-name>CNN International Europe</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da812"/><url>https://dsmart.com.tr</url></channel>
 <channel id="CNNTurk.us"><display-name>CNN Türk</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="CocukSmart.tr"><display-name>Çocuk Smart</display-name><url>https://dsmart.com.tr</url></channel>
-<channel id="guldur.tr"><display-name>guldur</display-name><url>https://dsmart.com.tr</url></channel>
+<channel id="Kraltv.tr"><display-name>KRAL</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="DiscoveryChannelTurkiye.us"><display-name>Discovery Channel Türkiye</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8e2"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DiscoveryScienceTurkiye.us"><display-name>Discovery Science Türkiye</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da900"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DisneyChannelTurkiye.us"><display-name>Disney Channel Türkiye</display-name><url>https://dsmart.com.tr</url></channel>
@@ -824,7 +824,7 @@
 <programme start="20211113183000 +0000" stop="20211113200000 +0000" channel="DiyanetTV.tr"><title lang="tr">Cumaya Doğru</title><category lang="tr">0</category></programme>
 <programme start="20211113200000 +0000" stop="20211113203000 +0000" channel="DiyanetTV.tr"><title lang="tr">Yasin-i Şerif</title><category lang="tr">0</category></programme>
 <programme start="20211113203000 +0000" stop="20211113210000 +0000" channel="DiyanetTV.tr"><title lang="tr">Din Hizmetine Adanmış Ömürler</title><category lang="tr">0</category></programme>
-<programme start="20220111220000 +0000" stop="20220111234500 +0000" channel="guldur.tr"><title lang="tr">Güldür Güldür Show</title><desc lang="tr">Show Tvde Yayınlanan Bir Komedi Programı Ekranı geliyor</desc><category lang="tr">0</category></programme>
+<programme start="20220111220000 +0000" stop="20220111234500 +0000" channel="Kraltv.tr"><title lang="tr">Güldür Güldür Show</title><desc lang="tr">Show Tvde Yayınlanan Bir Komedi Programı Ekranı geliyor</desc><category lang="tr">0</category></programme>
 <programme start="20220111210000 +0000" stop="20220111214900 +0000" channel="DiziSmartPremium.tr"><title lang="tr">The Good Doctor</title><desc lang="tr">Shaun ve Lea bebeklerinin cinsiyetini öğrenirler. Lea, Shaun’un doğuma hazırlanma sürecindeki tüm yardımlarına karşın profesyonel destek alma konusunda ısrarlıdır. Bu arada ekip, daha önce yanlış teşhis konulan eski bir pilotu tedavi etmeye çalışır.</desc><category lang="tr">sinema/dizi-filmi</category></programme>
 <programme start="20220111214900 +0000" stop="20220111220000 +0000" channel="DiziSmartPremium.tr"><title lang="tr">Az Sonra...</title><category lang="tr">eglence/genel</category></programme>
 <programme start="20220111220000 +0000" stop="20220111225000 +0000" channel="DiziSmartPremium.tr"><title lang="tr">The Good Doctor</title><desc lang="tr">Şiddet olaylarına dönüşen siyasi protestolar sonucunda ekip; iki silahlı genç kurbanın hayatını kurtarmak için yarışır.</desc><category lang="tr">sinema/dizi-filmi</category></programme>
@@ -3579,5 +3579,5 @@
 <programme start="20220113175500 +0000" stop="20220113185500 +0000" channel="ViasatHistoryHD.se"><title lang="tr">Antik Kıyametler</title><category lang="tr">belgesel/genel</category></programme>
 <programme start="20220113185500 +0000" stop="20220113200000 +0000" channel="ViasatHistoryHD.se"><title lang="tr">Antik Kıyametler</title><category lang="tr">belgesel/genel</category></programme>
 <programme start="20220113200000 +0000" stop="20220113210500 +0000" channel="ViasatHistoryHD.se"><title lang="tr">Aya İniş Dünyanın En Büyük Aldatmacası mıydı?</title><category lang="tr">belgesel/genel</category></programme>
-<programme start="20220120185500 +0000" stop="20220113200000 +0000" channel="Kral TV.tr"><title lang="tr">Kral Tv</title><category lang="tr">Muzik/genel</category></programme>
+<programme start="20220120185500 +0000" stop="20221220185500 +0000" channel="Kral TV.tr"><title lang="tr">Kral Tv</title><category lang="tr">Muzik/genel</category></programme>
 </tv>
