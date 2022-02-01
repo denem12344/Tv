@@ -29,7 +29,7 @@ http://mugla.tvizlehd.com/live/tv8720.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg" ,Beyaz Tv HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="flash.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
+#EXTINF:0 group-title="Ulusal" tvg-id="flashtv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Yaşam" ,Yaşam
 https://s01.vpis.io/wmtv/wmtv.m3u8
