@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0 group-title="Ulusal" ,ULUSAL
-ULUSAL
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="Trt1.tr" tvg-name="trt1 tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" tvg-logo-small="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" tvg-logo-small="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" ,TRT HABER HD
@@ -32,13 +32,13 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="flash.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Yaşam" ,Yaşam
-Yaşam
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="womantv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,WM TV WOMAN KADIN
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,Tlc HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:0 group-title="Belgesel" ,Belgesel
-Belgesel
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="Dmax.tr" tvg-name="Dmax" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" ,Dmax Hd
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="yabanTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
@@ -48,7 +48,7 @@ http://red.ipfox.org:8080/1234/12345678/2803?checkedby:iptvcat.com
 #EXTINF:0 group-title="Belgesel" tvg-id="beiniZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
 http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37960?checkedby:iptvcat.com
 #EXTINF:0 group-title="Haber" ,Haber
-Haber
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="CNNTurk.us" tvg-name="CNN TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" ,CNN TURK HD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" ,NTV HD
@@ -74,7 +74,7 @@ https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" ,Tele 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 group-title="Ulusal" ,Ulusal 2
-Ulusal 2
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
 https://livex458745.livestreamlive.xyz/ucankus.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="teve2.tr" tvg-name="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" ,Teve 2 HD
@@ -82,16 +82,16 @@ https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="A2TV.tr" tvg-name="a2 TV TR" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" ,A2
 http://84.22.33.214/A2/index.m3u8
 #EXTINF:0 group-title="ÇOCUK" ,Çocuk
-Çocuk
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikacocuk.tr" tvg-name="minikacocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" ,MİNİKA ÇOCUK
 https://lives2.canlitv.center/minikacocuk.m3u8
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikago.tr" tvg-name="minikago.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" ,MİNİKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-#EXTINF:0 group-title="MUZİK" ,Muzik
+#EXTINF:0 group-title="https://tv-trt1.medya.trt.com.tr/master.m3u8" ,Muzik
 Muzik
 #EXTINF:0 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" ,DİSNEY CHANNEL
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="MUZİK" tvg-id="KRALTV.TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="Kraltv.tr" tvg-name="KRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="KRALPop.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
@@ -105,8 +105,8 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
-#EXTINF:0 ,Radyolar
-Radyolar
+#EXTINF:0 group-title="https://tv-trt1.medya.trt.com.tr/master.m3u8" ,Radyolar
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" ,Alem Fm
 https://turkmedya.radyotvonline.net/alemfmaac
 #EXTINF:0 group-title="Radyo" tvg-logo="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" tvg-logo-small="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" ,Baba Radyo
