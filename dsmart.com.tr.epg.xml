@@ -73,7 +73,7 @@
 <channel id="SSport.tr"><display-name>S Sport</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/5ff5d1d2cfef0b1593364e30"/><url>https://dsmart.com.tr</url></channel>
 <channel id="SSport2.tr"><display-name>S Sport 2</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/5ff5d2f7cfef0b15933651d9"/><url>https://dsmart.com.tr</url></channel>
 <channel id="StarTV.tr"><display-name>Star TV</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8be"/><url>https://dsmart.com.tr</url></channel>
-<channel id="StingrayNaturescape.ca"><display-name>Stingray Naturescape</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e0"/><url>https://dsmart.com.tr</url></channel>
+<channel id="kraltv.tr"><display-name>KRAL TV HD</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e0"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Teve2.tr"><display-name>Teve 2</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da80a"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TGRTHaber.tr"><display-name>TGRT Haber</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8ea"/><url>https://dsmart.com.tr</url></channel>
 <channel id="TheHistoryChannelTurkey.us"><display-name>The History Channel Turkey</display-name><url>https://dsmart.com.tr</url></channel>
@@ -2650,22 +2650,22 @@
 <programme start="20220112130000 +0000" stop="20220112153000 +0000" channel="StarTV.tr"><title lang="tr">Söz / tkr</title><desc lang="tr">Yavuz yanı başındaki Agâh tehlikesinden habersizce robot resmin olduğu dosyayı istihbarata ulaştırmak ister ancak Sancar’ı kurtarmaya gelen teröristler işleri değiştirecektir.</desc><category lang="tr">0</category></programme>
 <programme start="20220112153000 +0000" stop="20220112170000 +0000" channel="StarTV.tr"><title lang="tr">Star Haber</title><category lang="tr">0</category></programme>
 <programme start="20220112170000 +0000" stop="20220112200000 +0000" channel="StarTV.tr"><title lang="tr">Annemizi Saklarken</title><desc lang="tr">Dündar’la Handan’ın evliliklerinin magazin gündemine düşmesi, hayalperest annemiz için artık yolun sonu demek. Böyle bir yalan daha fazla nasıl saklanır?</desc><category lang="tr">0</category></programme>
-<programme start="20210911210000 +0000" stop="20210912000000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912000000 +0000" stop="20210912030000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912030000 +0000" stop="20210912060000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912060000 +0000" stop="20210912090000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912090000 +0000" stop="20210912120000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912120000 +0000" stop="20210912150000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912150000 +0000" stop="20210912180000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912180000 +0000" stop="20210912210000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210912210000 +0000" stop="20210913000000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913000000 +0000" stop="20210913030000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913030000 +0000" stop="20210913060000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913060000 +0000" stop="20210913090000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913090000 +0000" stop="20210913120000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913120000 +0000" stop="20210913150000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913150000 +0000" stop="20210913180000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
-<programme start="20210913180000 +0000" stop="20210913210000 +0000" channel="StingrayNaturescape.ca"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210911210000 +0000" stop="20210912000000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912000000 +0000" stop="20210912030000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912030000 +0000" stop="20210912060000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912060000 +0000" stop="20210912090000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912090000 +0000" stop="20210912120000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912120000 +0000" stop="20210912150000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912150000 +0000" stop="20210912180000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912180000 +0000" stop="20210912210000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210912210000 +0000" stop="20210913000000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913000000 +0000" stop="20210913030000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913030000 +0000" stop="20210913060000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913060000 +0000" stop="20210913090000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913090000 +0000" stop="20210913120000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913120000 +0000" stop="20210913150000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913150000 +0000" stop="20210913180000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
+<programme start="20210913180000 +0000" stop="20210913210000 +0000" channel="kraltv.tr"><title lang="tr">Kral Tv</title><category lang="tr">0</category></programme>
 <programme start="20220111221500 +0000" stop="20220111231500 +0000" channel="Teve2.tr"><title lang="tr">Kelime Oyunu</title><category lang="tr">0</category></programme>
 <programme start="20220111231500 +0000" stop="20220112010000 +0000" channel="Teve2.tr"><title lang="tr">Teve2 Magazin Masası</title><category lang="tr">0</category></programme>
 <programme start="20220112010000 +0000" stop="20220112020000 +0000" channel="Teve2.tr"><title lang="tr">Akasya Durağı</title><category lang="tr">0</category></programme>
