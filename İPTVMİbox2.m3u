@@ -91,7 +91,7 @@ http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 Muzik
 #EXTINF:0 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" ,DİSNEY CHANNEL
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="MUZİK" tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="kraltv.tr" tvg-name="KRAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="KRALPop.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
