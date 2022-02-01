@@ -87,8 +87,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://lives2.canlitv.center/minikacocuk.m3u8
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikago.tr" tvg-name="minikago.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" ,MİNİKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-#EXTINF:0 group-title="https://tv-trt1.medya.trt.com.tr/master.m3u8" ,Muzik
-Muzik
+#EXTINF:0 group-title="MUZİK" ,Muzik
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" ,DİSNEY CHANNEL
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="MUZİK" tvg-id="kraltv.tr" tvg-name="KRAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
@@ -105,7 +105,7 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
-#EXTINF:0 group-title="https://tv-trt1.medya.trt.com.tr/master.m3u8" ,Radyolar
+#EXTINF:0 group-title="radyo" ,Radyolar
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" ,Alem Fm
 https://turkmedya.radyotvonline.net/alemfmaac
