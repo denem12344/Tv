@@ -1,7 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Ulusal" ,ULUSAL DİZİ TDC
-http://93.157.62.180/TDC/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Ulusal" tvg-id="Trt1.tr" tvg-name="trt1 tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" tvg-logo-small="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" ,TRT 1
+#EXTINF:0 group-title="Ulusal" tvg-id="Trt1.tr" tvg-name="trt1 tr" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" tvg-logo-small="http://trtkurumsal.trt.net.tr/Uploads/image/png/2021-02-03-17.55.58/7dea9fa085b6422cb263c3148cb247b7.png" ,ULUSAL TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" tvg-logo-small="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" ,TRT HABER HD
 http://84.22.33.214/TRTHaber/index.m3u8
@@ -93,7 +91,7 @@ http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="MUZİK" ,Muzik
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="kraltv.tr" tvg-name="KRAL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="KralTV.tr" tvg-name="KralTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="KRALPop.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
