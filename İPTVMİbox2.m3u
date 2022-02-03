@@ -81,7 +81,7 @@ https://livex458745.livestreamlive.xyz/ucankus.m3u8
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="A2TV.tr" tvg-name="a2 TV TR" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png" ,A2
 http://84.22.33.214/A2/index.m3u8
-#EXTINF:0 group-title="ÇOCUK" tvg-logo="https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png" ,Çocuk
+#EXTINF:0 group-title="ÇOCUK" tvg-id="Çocuk.tr" tvg-logo="https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png" ,Çocuk
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?
 #EXTINF:0 group-title="ÇOCUK" tvg-id="minikacocuk.tr" tvg-name="minikacocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" ,MİNİKA ÇOCUK
 https://lives2.canlitv.center/minikacocuk.m3u8
@@ -89,21 +89,21 @@ https://lives2.canlitv.center/minikacocuk.m3u8
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:0 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" ,DİSNEY CHANNEL
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="MUZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png" ,Muzik
+#EXTINF:0 group-title="MUZİK" tvg-id="Muzik.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png" ,Muzik
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="KralTV.tr" tvg-name="KralTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="KRALPop.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="Kral Pop Tv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="powerTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" ,POWERTURK TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="PowerTürk tv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" ,POWERTURK TV HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="powertv.tr" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" ,Power TV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="numberonetürk.tr" tvg-name="Number One Türk HD" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" ,Number One Türk HD
+#EXTINF:0 group-title="MUZİK" tvg-id="NumberoneTurk Tv.tr" tvg-name="Number One Türk HD" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" ,Number One Türk HD
 https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="dreamtürk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" ,Dream Türk HD
+#EXTINF:0 group-title="MUZİK" tvg-id="DreamTürk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" ,Dream Türk HD
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
+#EXTINF:0 group-title="MUZİK" tvg-id="PowerTaze.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 group-title="radyo" tvg-logo="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" ,Radyolar
 http://kralwmp.radyotvonline.com/;
