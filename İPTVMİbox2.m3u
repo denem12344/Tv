@@ -47,7 +47,7 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 http://red.ipfox.org:8080/1234/12345678/2803?checkedby:iptvcat.com
 #EXTINF:0 group-title="Belgesel" tvg-id="Bein İZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
 http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37960?checkedby:iptvcat.com
-#EXTINF:0 group-title="Haber" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" ,Haber
+#EXTINF:0 group-title="Haber" tvg-id="Haber.tr" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" ,Haber
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="CNNTurk.us" tvg-name="CNN TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" ,CNN TURK HD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
