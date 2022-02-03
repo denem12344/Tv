@@ -65,7 +65,7 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="tvnet.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tvnet.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tvnet.png" ,Tvnet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0 group-title="Haber" tvg-id="bloomberg ht.tr" tvg-name="bloomberg ht.tr" tvg-logo="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" tvg-logo-small="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" ,BLOOMBERG  HT HD
+#EXTINF:0 group-title="Haber" tvg-id="BloombergHT.us" tvg-logo="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" tvg-logo-small="https://w7.pngwing.com/pngs/794/508/png-transparent-bloomberg-terminal-bloomberg-television-united-states-news-tv-station-company-text-trademark.png" ,BLOOMBERG  HT HD
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="halktv.tr" tvg-name="halktv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" ,Halk Tv HD
 https://halktv-live.ercdn.net/halktv/halktv.m3u8
@@ -73,7 +73,7 @@ https://halktv-live.ercdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" ,Tele 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" ,Ulusal 2
+#EXTINF:0 group-title="Ulusal" tvg-id="Ulusal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" ,Ulusal 2
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
 https://livex458745.livestreamlive.xyz/ucankus.m3u8
