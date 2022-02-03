@@ -35,7 +35,7 @@ https://s01.vpis.io/wmtv/wmtv.m3u8
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="TLCTurkiye.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,Tlc HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:0 group-title="Belgesel" tvg-logo="https://www.sardunyareklam.org/wp-content/uploads/2019/01/10-belgesel-izleyen-kitleye-tv-reklam-paketi.png" tvg-logo-small="https://www.sardunyareklam.org/wp-content/uploads/2019/01/10-belgesel-izleyen-kitleye-tv-reklam-paketi.png" ,Belgesel
+#EXTINF:0 group-title="Belgesel" tvg-id="Belgesel.tr" tvg-logo="https://www.sardunyareklam.org/wp-content/uploads/2019/01/10-belgesel-izleyen-kitleye-tv-reklam-paketi.png" tvg-logo-small="https://www.sardunyareklam.org/wp-content/uploads/2019/01/10-belgesel-izleyen-kitleye-tv-reklam-paketi.png" ,Belgesel
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="DMAXTurkiye.us" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" ,Dmax Hd
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
