@@ -117,7 +117,7 @@
 <channel id="Radyo Fenomen.tr"><display-name>Radyo Fenomen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="İstanbul FM.tr"><display-name>İstanbul FM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Joy Turk.tr"><display-name>Joy Turk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Kral FM.tr"><display-name>İlaç Gibi Radyo Kral FM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Kral FM.tr"><display-name> Kral FM</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Kral POP.tr"><display-name>KRAL POP</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NumberOneTürk Radyo.tr"><display-name>NumberOneTürk Radyo</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NtvRadyo.tr"><display-name>Ntv Radyo</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
@@ -3627,7 +3627,7 @@
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Radyo Fenomen.tr"><title lang="tr">Radyo Fenomen</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="İstanbul FM.tr"><title lang="tr">İSTANBUL FM</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Joy Turk.tr"><title lang="tr">JOYTURK</title><category lang="tr">Muzik/genel</category></programme>
-<programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Kral FM.tr"><title lang="tr">KRAL FM</title><category lang="tr">Muzik/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Kral FM.tr"><title lang="tr">İlaç Gibi Radyo</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Kral POP.tr"><title lang="tr">KRAL POP</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="NumberOneTürk Radyo.tr"><title lang="tr">NUMBERONETÜRK</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="NtvRadyo.tr"><title lang="tr">NTV RADYO</title><category lang="tr">Muzik/genel</category></programme>
