@@ -31,7 +31,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,Yaşam
 https://s01.vpis.io/wmtv/wmtv.m3u8
-#EXTINF:0 group-title="Yaşam" tvg-id="womantv.tr" tvg-name="womantv" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,WM TV WOMAN KADIN
+#EXTINF:0 group-title="Yaşam" tvg-id="Woman Tv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,WM TV WOMAN KADIN
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="tlc.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" ,Tlc HD
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
