@@ -106,7 +106,7 @@
 <channel id="Haber.tr"><display-name>HABER</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="DreamTürk.tr"><display-name>Dream Türk HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="NumberoneTurk Tv.tr"><display-name>Number One Türk HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="PowerTürk tv.tr"><display-name>POWERTURK TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="PowerTürk.tr"><display-name>POWERTURK TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Kral Pop Tv.tr"><display-name>KRAL POP TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Muzik.tr"><display-name>MUZİK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Çocuk.tr"><display-name>Çocuk</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png"/><url>https://dsmart.com.tr</url></channel>
@@ -3599,7 +3599,7 @@
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Ulusal.tr"><title lang="tr">ULUSAL 2</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Haber.tr"><title lang="tr">HABER</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="DreamTürk.tr"><title lang="tr">DREAM TÜRK HD</title><category lang="tr">Muzik/genel</category></programme>
-<programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="NumberoneTurk.tr"><title lang="tr">NUMBERONETURK HD</title><category lang="tr">Muzik/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="NumberoneTurk Tv.tr"><title lang="tr">NUMBERONETURK HD</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="PowerTürk.tr"><title lang="tr">POWERTÜRK TV HD</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Kral POP TV.tr"><title lang="tr">KRALPOP TV</title><category lang="tr">Muzik/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="Muzik.tr"><title lang="tr">MUZİK</title><category lang="tr">Muzik/genel</category></programme>
