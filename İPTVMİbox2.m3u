@@ -119,7 +119,7 @@ https://listen.radyofenomen.com/fenomen/128/icecast.audio
 https://stream2.rtvtakip.com:7000/stream?icy=http
 #EXTINF:0 group-title="Radyo" tvg-id="Joy Turk.tr" tvg-logo="https://uk.radio.net/images/broadcasts/60/97/6790/c300.png" tvg-logo-small="https://uk.radio.net/images/broadcasts/60/97/6790/c300.png" ,Joy Turk
 http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls
-#EXTINF:0 group-title="Radyo" tvg-id="Kral FM.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.pnghttps://www.canliradyodinle.fm/wp-content/uploads/kral-fm.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.png" ,İlaç Gibi Radyo Kral FM
+#EXTINF:0 group-title="Radyo" tvg-id="Kral FM.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.pnghttps://www.canliradyodinle.fm/wp-content/uploads/kral-fm.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/kral-fm.png" ,Kral FM
 http://kralwmp.radyotvonline.com/;
 #EXTINF:0 group-title="Radyo" tvg-id="Kral POP.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" ,Kral Pop
 http://kralpopwmp.radyotvonline.com/;
