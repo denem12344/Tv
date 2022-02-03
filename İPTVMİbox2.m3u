@@ -27,7 +27,7 @@ http://mugla.tvizlehd.com/live/tv8720.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" tvg-logo-small="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" ,Beyaz Tv HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="flashtv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
+#EXTINF:0 group-title="Ulusal" tvg-id="FlashTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,Yaşam
 https://s01.vpis.io/wmtv/wmtv.m3u8
@@ -43,9 +43,9 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="Yaban TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 group-title="Belgesel" tvg-id="natgeo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NET GEO HD 4K
+#EXTINF:0 group-title="Belgesel" tvg-id="NationalGeographicTurkiye.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NET GEO HD 4K
 http://red.ipfox.org:8080/1234/12345678/2803?checkedby:iptvcat.com
-#EXTINF:0 group-title="Belgesel" tvg-id="beiniZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
+#EXTINF:0 group-title="Belgesel" tvg-id="Bein İZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
 http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37960?checkedby:iptvcat.com
 #EXTINF:0 group-title="Haber" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" ,Haber
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
