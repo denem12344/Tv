@@ -29,7 +29,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="FlashTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="Yaşam" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,Yaşam
+#EXTINF:0 group-title="Yaşam" tvg-id="Yasam.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,Yaşam
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:0 group-title="Yaşam" tvg-id="Woman Tv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,WM TV WOMAN KADIN
 https://s01.vpis.io/wmtv/wmtv.m3u8
@@ -111,7 +111,7 @@ http://kralwmp.radyotvonline.com/;
 https://turkmedya.radyotvonline.net/alemfmaac
 #EXTINF:0 group-title="Radyo" tvg-id="Baba Radyo.tr" tvg-logo="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" tvg-logo-small="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" ,Baba Radyo
 http://46.20.7.116/babaradyoaac
-#EXTINF:0 group-title="Radyo" tvg-id="Best FM.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20191115164648%21Best_FM.pnghttps://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20191115164648%21Best_FM.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9b/20191115164648%21Best_FM.png" ,Best FM
+#EXTINF:0 group-title="Radyo" tvg-id="Best FM.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDO5NI3Ukf9ojtSoJTlgnSMBGwW5843V8tLGpNKjEKoKtWaqrcR0D11DBJvzNsKAkBJA&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDO5NI3Ukf9ojtSoJTlgnSMBGwW5843V8tLGpNKjEKoKtWaqrcR0D11DBJvzNsKAkBJA&usqp=CAU" ,Best FM
 http://46.20.7.125/bestfmaac
 #EXTINF:0 group-title="Radyo" tvg-id="Radyo Fenomen.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20111019104050%21Radyo_Fenomen_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20111019104050%21Radyo_Fenomen_logosu.png" ,Radyo Fenomen
 https://listen.radyofenomen.com/fenomen/128/icecast.audio
@@ -123,7 +123,7 @@ http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls
 http://kralwmp.radyotvonline.com/;
 #EXTINF:0 group-title="Radyo" tvg-id="Kral POP.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" ,Kral Pop
 http://kralpopwmp.radyotvonline.com/;
-#EXTINF:0 group-title="Radyo" tvg-id="NumberOneTürk Radyo.tr" tvg-logo="https://www.onlineradyodinle.com.tr/kanal/number-1-turk-fm.png" tvg-logo-small="https://www.onlineradyodinle.com.tr/kanal/number-1-turk-fm.png" ,NumberOneTürk Radyo
+#EXTINF:0 group-title="Radyo" tvg-id="NumberOneTürk Radyo.tr" tvg-logo="https://w7.pngwing.com/pngs/969/882/png-transparent-istanbul-number-one-turk-radio-broadcasting-fm-broadcasting-number1-fm-others-television-text-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/969/882/png-transparent-istanbul-number-one-turk-radio-broadcasting-fm-broadcasting-number1-fm-others-television-text-logo.png" ,NumberOneTürk Radyo
 https://n10101m.mediatriple.net/numberoneturk
 #EXTINF:0 group-title="Radyo" tvg-id="NtvRadyo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ce/NTV_Radyo_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/c/ce/NTV_Radyo_logosu.png" ,Ntv Radyo
 http://ntvrdwmp.radyotvonline.com/;
