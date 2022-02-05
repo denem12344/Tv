@@ -110,10 +110,10 @@
 <channel id="Kral Pop Tv.tr"><display-name>KRAL POP TV HD</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Muzik.tr"><display-name>MUZÝK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Çocuk.tr"><display-name>Çocuk</display-name><icon src="https://seeklogo.com/images/T/trt-cocuk-logo-103E70D040-seeklogo.com.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="PowerTaze.tr"><display-name>PowerTürk Taptaze</display-name><icon src="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png"/><url>https://dsmart.com.tr</url></channel>
+<channel id="PowerTaze.tr"><display-name>PowerTürk Taptaze</display-name><icon src="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Alem Fm.tr"><display-name>Alem Fm</display-name><icon src="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Baba Radyo.tr"><display-name>Baba Radyo</display-name><icon src="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png"/><url>https://dsmart.com.tr</url></channel>
-<channel id="Best FM.tr"><display-name>Best Fm</display-name><icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDO5NI3Ukf9ojtSoJTlgnSMBGwW5843V8tLGpNKjEKoKtWaqrcR0D11DBJvzNsKAkBJA&usqp=CAU"/><url>https://dsmart.com.tr</url></channel>
+<channel id="Best FM.tr"><display-name>Best Fm</display-name><icon src=""/><url>https://dsmart.com.tr</url></channel>
 <channel id="Radyo Fenomen.tr"><display-name>Radyo Fenomen</display-name><icon src="https://upload.wikimedia.org/wikipedia/tr/archive/a/a4/20111019104050%21Radyo_Fenomen_logosu.png"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Ýstanbul FM.tr"><display-name>Ýstanbul FM</display-name><icon src="https://muzrad.com/wp-content/uploads/2015/10/muzrad_istanbul-fm-secimin-nabzini-tutacak.jpg"/><url>https://dsmart.com.tr</url></channel>
 <channel id="Joy Turk.tr"><display-name>Joy Turk</display-name><icon src="https://uk.radio.net/images/broadcasts/60/97/6790/c300.png"/><url>https://dsmart.com.tr</url></channel>
