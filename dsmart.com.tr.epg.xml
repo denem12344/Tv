@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
 <channel id="24KitchenTurkiye.us"><display-name>24 KitcheJn Türkiye</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/5d9dc8dfcfef0b5db33df652"/><url>https://dsmart.com.tr</url></channel>
 <channel id="24TV.tr"><display-name>24 TV</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/5ae96a23cfef0b34db619067"/><url>https://dsmart.com.tr</url></channel>
-<channel id="360.tr"><display-name>360</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da921"/><url>https://dsmart.com.tr</url></channel>
+<channel id="360.tr"><display-name>360 T</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da921"/><url>https://dsmart.com.tr</url></channel>
 <channel id="AHaber.tr"><display-name>A Haber</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da846"/><url>https://dsmart.com.tr</url></channel>
 <channel id="ANews.tr"><display-name>A News</display-name><url>https://dsmart.com.tr</url></channel>
 <channel id="ASpor.tr"><display-name>A Spor</display-name><icon src="https://www.dsmart.com.tr/epg/images/0x50/591d9004d6f43975c9cf23bf"/><url>https://dsmart.com.tr</url></channel>
