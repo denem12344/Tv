@@ -3,7 +3,7 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" tvg-logo-small="https://www.belkaas.com.tr/koalaroo/2021/04/22a73f58e06e4979827002c9463e196d.png" ,TRT HABER HD
 http://84.22.33.214/TRTHaber/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="TRT3Spor.tr" tvg-name="TRT 3 Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png" ,TRT SPOR HD
+#EXTINF:0 group-title="Ulusal" tvg-id="Trtspor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png" ,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/2560px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/2560px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" ,TRT ÇOCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
@@ -73,7 +73,7 @@ https://halktv-live.ercdn.net/halktv/halktv.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" ,Tele 1
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 group-title="Ulusal" tvg-id="Ulusal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" ,Ulusal 2
+#EXTINF:0 group-title="Ulusal" tvg-id="Ulusal 2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" ,Ulusal 2
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
 https://livex458745.livestreamlive.xyz/ucankus.m3u8
