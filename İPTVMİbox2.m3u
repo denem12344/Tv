@@ -143,3 +143,13 @@ http://23553.live.streamtheworld.com:80/METRO_FMAAC_SC
 http://23553.live.streamtheworld.com:80/SUPER_FMAAC_SC
 #EXTINF:0 group-title="radyo" tvg-id="RadyoAlaturka.tr" tvg-logo="http://4.bp.blogspot.com/-mTK5IkUcSH0/WawI_CeYvSI/AAAAAAAAU2I/UU--L3KuhAoCjgA0NfG34ViRN500KNaxQCLcBGAs/s1600/a.jpg" tvg-logo-small="http://4.bp.blogspot.com/-mTK5IkUcSH0/WawI_CeYvSI/AAAAAAAAU2I/UU--L3KuhAoCjgA0NfG34ViRN500KNaxQCLcBGAs/s1600/a.jpg" ,Radyo Alaturka
 https://yayin.jumboserver.net/stream/alaturka
+#EXTINF:0 group-title="AZERİ" tvg-id="az tv.tr" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-logo-small="https://i.imgur.com/vvRXNTp.png" ,AZ TV
+http://109.205.166.68/server124/aztv/index.m3u8
+#EXTINF:0 group-title="AZERİ" tvg-id="cbc.tr" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.pnghttps://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" tvg-logo-small="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" ,CBC SPORTS
+http://istanbul.tvizlehd.com/live/cbcsport.m3u8
+#EXTINF:0 group-title="AZERİ" tvg-id="İCTİMAİ TV.tr" tvg-logo="https://i.imgur.com/qEQzBiV.png" tvg-logo-small="https://i.imgur.com/qEQzBiV.png" ,İCTİMAİ TV
+http://mugla.tvizlehd.com/live/ictimaitv.m3u8
+#EXTINF:0 group-title="AZERİ" tvg-id="idman.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-logo-small="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" ,İDMAN TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:0 group-title="AZERİ" tvg-id="xezertv.tr" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
+http://109.205.166.68/server124/xazar_tv/index.m3u8
