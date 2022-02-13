@@ -95,15 +95,15 @@ http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptv
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="KralTV.tr" tvg-name="KRAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="Kral Pop Tv.tr" tvg-name="KRAL POP TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="KralPop.tr" tvg-name="KRAL POP TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" ,KRAL POP TV HD
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="PowerTürk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" ,POWERTURK TV HD
+#EXTINF:0 group-title="MUZİK" tvg-id="PowerTurkTV.tr" tvg-name="Powerturk TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" ,POWERTURK TV HD
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="powertv.tr" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_44.png?v=1" ,Power TV HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="NumberoneTurk Tv.tr" tvg-name="Number One Türk HD" tvg-logo="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1225330672853602307/IhN3v0s7_400x400.jpg" ,Number One Türk HD
 https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-#EXTINF:0 group-title="MUZİK" tvg-id="DreamTürk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" ,Dream Türk HD
+#EXTINF:0 group-title="MUZİK" tvg-id="DreamTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/b/bc/20200411150543%21Dream_T%C3%BCrk_logosu.png" ,Dream Türk HD
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="PowerTaze.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/59a04a11-4fe8-4455-a87f-016008e31550.png" ,PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
@@ -143,13 +143,13 @@ http://23553.live.streamtheworld.com:80/METRO_FMAAC_SC
 http://23553.live.streamtheworld.com:80/SUPER_FMAAC_SC
 #EXTINF:0 group-title="radyo" tvg-id="RadyoAlaturka.tr" tvg-logo="http://4.bp.blogspot.com/-mTK5IkUcSH0/WawI_CeYvSI/AAAAAAAAU2I/UU--L3KuhAoCjgA0NfG34ViRN500KNaxQCLcBGAs/s1600/a.jpg" tvg-logo-small="http://4.bp.blogspot.com/-mTK5IkUcSH0/WawI_CeYvSI/AAAAAAAAU2I/UU--L3KuhAoCjgA0NfG34ViRN500KNaxQCLcBGAs/s1600/a.jpg" ,Radyo Alaturka
 https://yayin.jumboserver.net/stream/alaturka
-#EXTINF:0 group-title="AZERİ" tvg-id="az tv.tr" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-logo-small="https://i.imgur.com/vvRXNTp.png" ,AZ TV
+#EXTINF:0 group-title="AZERİ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-logo-small="https://i.imgur.com/vvRXNTp.png" ,AZ TV
 http://109.205.166.68/server124/aztv/index.m3u8
-#EXTINF:0 group-title="AZERİ" tvg-id="cbc.tr" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.pnghttps://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" tvg-logo-small="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" ,CBC SPORTS
+#EXTINF:0 group-title="AZERİ" tvg-id="CBC Sport.az" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.pnghttps://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" tvg-logo-small="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" ,CBC SPORTS
 http://istanbul.tvizlehd.com/live/cbcsport.m3u8
-#EXTINF:0 group-title="AZERİ" tvg-id="İCTİMAİ TV.tr" tvg-logo="https://i.imgur.com/qEQzBiV.png" tvg-logo-small="https://i.imgur.com/qEQzBiV.png" ,İCTİMAİ TV
+#EXTINF:0 group-title="AZERİ" tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/qEQzBiV.png" tvg-logo-small="https://i.imgur.com/qEQzBiV.png" ,İCTİMAİ TV
 http://mugla.tvizlehd.com/live/ictimaitv.m3u8
-#EXTINF:0 group-title="AZERİ" tvg-id="idman.tr" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-logo-small="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" ,İDMAN TV
+#EXTINF:0 group-title="AZERİ" tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-logo-small="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" ,İDMAN TV
 http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:0 group-title="AZERİ" tvg-id="xezertv.tr" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
+#EXTINF:0 group-title="AZERİ" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
