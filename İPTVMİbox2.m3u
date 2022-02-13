@@ -43,7 +43,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT BELGESEL HD
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Belgesel" tvg-id="Yaban TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
+#EXTINF:0 group-title="Belgesel" tvg-id="Yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="NationalGeographicTurkiye.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NET GEO HD 4K
 http://red.ipfox.org:8080/1234/12345678/2803?checkedby:iptvcat.com
