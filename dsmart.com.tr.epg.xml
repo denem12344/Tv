@@ -3628,4 +3628,9 @@
 <programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="AfyonTürkTv.tr"><title lang="tr">AFYON TÜRK TV HD</title><category lang="tr">Ulusal/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="RadyoAlaturka.tr"><title lang="tr">RADYO ALATURKA</title><category lang="tr">Ulusal/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="Aktüel.tr"><title lang="tr">AKTÜEL TV HD </title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="az tv.tr"><title lang="tr">AZ TV</title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="cbc.tr"><title lang="tr">CBC SPORTS</title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="İCTİMAİ TV.tr"><title lang="tr">İCTİMAİ TV</title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="idman.tr"><title lang="tr">İDMAN TV</title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20220320185500 +0000" channel="xezertv.tr"><title lang="tr">XEZER TV</title><category lang="tr">Ulusal/genel</category></programme>
 </tv>
