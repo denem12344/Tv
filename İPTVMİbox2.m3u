@@ -109,7 +109,7 @@ https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="Aktüel.tr" ,AKTUEL MUZİK TV
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="MUZİK" ,İBRAHİM TATLISES 4K
+#EXTINF:0 group-title="MUZİK" ,İBRAHİM TATLISES HD 4K
 http://local.ultrach.com:8080/bekira/bekira/92537?checkedby:iptvcat.com
 #EXTINF:0 group-title="radyo" tvg-id="Radyolar.tr" tvg-logo="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" ,Radyolar
 http://kralwmp.radyotvonline.com/;
