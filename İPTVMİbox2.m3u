@@ -12,7 +12,7 @@ https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="starTV.tr" tvg-name="Star Tv türkiye" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/star_tv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/star_tv.png" ,Star Tv HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="kanald.tr" tvg-name="Kanal D" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal_d.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal_d.png" ,Kanal D HD
-http://93.157.62.180/KanalD/index.m3u8
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="showtv.tr" tvg-name="Show Tv" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png" ,Show Tv Hd
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATVTurkiye.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" ,ATV HD
@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="kanal7.tr" tvg-name="kanal 7" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" ,Kanal 7 HD
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" ,TV8 HD
-http://mugla.tvizlehd.com/live/tv8720.m3u8
+https://livesx.canlitv.center/tv8hd.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="360.tr" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" ,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" tvg-logo-small="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" ,Beyaz Tv HD
@@ -45,10 +45,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Belgesel" tvg-id="Yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:0 group-title="Belgesel" tvg-id="NationalGeographicTurkiye.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" ,NET GEO HD 4K
-http://red.ipfox.org:8080/1234/12345678/2803?checkedby:iptvcat.com
-#EXTINF:0 group-title="Belgesel" tvg-id="Bein İZ.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/23/Bein_iz.png" ,Bein İz HD
-http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/37960?checkedby:iptvcat.com
 #EXTINF:0 group-title="Haber" tvg-id="Haber.tr" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" ,Haber
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="Haber" tvg-id="CNNTurk.us" tvg-name="CNN TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/1280px-CNN_T%C3%BCrk_logo.svg.png" ,CNN TURK HD
