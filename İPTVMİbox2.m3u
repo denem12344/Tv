@@ -155,7 +155,7 @@ http://23553.live.streamtheworld.com:80/SUPER_FMAAC_SC
 https://yayin.jumboserver.net/stream/alaturka
 #EXTINF:0 group-title="AZERİ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-logo-small="https://i.imgur.com/vvRXNTp.png" ,AZ TV
 http://109.205.166.68/server124/aztv/index.m3u8
-#EXTINF:0 group-title="AZERİ" tvg-id="CBC Sport.az" tvg-logo="https://www.bedavatv.com/wp-content/uploads/cbc-sport.png" tvg-logo-small="https://www.bedavatv.com/wp-content/uploads/cbc-sport.png" ,CBC SPORTS
+#EXTINF:0 group-title="AZERİ" tvg-id="CBC Sport.az" tvg-logo="https://www.bedavatv.com/wp-content/uploads/cbc-sport-300x241.png" tvg-logo-small="https://www.bedavatv.com/wp-content/uploads/cbc-sport-300x241.png" ,CBC SPORTS
 http://istanbul.tvizlehd.com/live/cbcsport.m3u8
 #EXTINF:0 group-title="AZERİ" tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/qEQzBiV.png" tvg-logo-small="https://i.imgur.com/qEQzBiV.png" ,İCTİMAİ TV
 http://mugla.tvizlehd.com/live/ictimaitv.m3u8
