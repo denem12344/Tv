@@ -29,6 +29,20 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 group-title="Ulusal" tvg-id="FlashTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="atV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" ,ATV AVRUPA
+http://mugla.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="kanald.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/003b8f20-99c8-4559-8c42-ea036e109d89.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/003b8f20-99c8-4559-8c42-ea036e109d89.png" ,EURO D
+https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,SHOW TURK HD
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="kanal7.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" ,KANAL 7 AVRUPA
+http://mugla.tvizlehd.com/live/kanal7avrupa.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" ,TV8 İNT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="starTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" ,EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 group-title="Ulusal" tvg-id="tgrtHaber.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7dd52379-38e8-48c3-8c66-6e7aa38306e5.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/7dd52379-38e8-48c3-8c66-6e7aa38306e5.png" ,TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:0 group-title="Sinema" tvg-id="AfyonTürkTv.tr" tvg-logo="http://2.bp.blogspot.com/-CVw2Jun9XYk/XsgmfZX7TZI/AAAAAAAAYdQ/s2NXdSBs2WkiRXKogXsRfjAMs90VmAP1gCLcBGAsYHQ/s1600/afyonturk.jpg" tvg-logo-small="http://2.bp.blogspot.com/-CVw2Jun9XYk/XsgmfZX7TZI/AAAAAAAAYdQ/s2NXdSBs2WkiRXKogXsRfjAMs90VmAP1gCLcBGAsYHQ/s1600/afyonturk.jpg" ,AFYON TÜRK TV HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Yaşam" tvg-id="Yasam.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/1aa3b921-b7d1-45f3-a6f9-ab6e142ffd81.png" ,Yaşam
@@ -105,8 +119,6 @@ https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 group-title="MUZİK" tvg-id="Aktüel.tr" ,AKTUEL MUZİK TV
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="MUZİK" ,İBRAHİM TATLISES HD 4K
-http://local.ultrach.com:8080/bekira/bekira/92537?checkedby:iptvcat.com
 #EXTINF:0 group-title="radyo" tvg-id="Radyolar.tr" tvg-logo="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" ,Radyolar
 http://kralwmp.radyotvonline.com/;
 #EXTINF:0 group-title="Radyo" tvg-id="Alem FM.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" ,Alem Fm
