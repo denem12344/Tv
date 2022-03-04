@@ -155,7 +155,7 @@ http://23553.live.streamtheworld.com:80/SUPER_FMAAC_SC
 https://yayin.jumboserver.net/stream/alaturka
 #EXTINF:0 group-title="AZERİ" tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-logo-small="https://i.imgur.com/vvRXNTp.png" ,AZ TV
 http://109.205.166.68/server124/aztv/index.m3u8
-#EXTINF:0 group-title="AZERİ" tvg-id="CBC Sport.az" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.pnghttps://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" tvg-logo-small="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbcsport.default.png" ,CBC SPORTS
+#EXTINF:0 group-title="AZERİ" tvg-id="CBC Sport.az" tvg-logo="https://www.vhv.rs/dpng/d/193-1932825_transparent-deportes-png-cbc-sport-png-download.png" tvg-logo-small="https://www.vhv.rs/dpng/d/193-1932825_transparent-deportes-png-cbc-sport-png-download.png" ,CBC SPORTS
 http://istanbul.tvizlehd.com/live/cbcsport.m3u8
 #EXTINF:0 group-title="AZERİ" tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/qEQzBiV.png" tvg-logo-small="https://i.imgur.com/qEQzBiV.png" ,İCTİMAİ TV
 http://mugla.tvizlehd.com/live/ictimaitv.m3u8
