@@ -121,7 +121,7 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltu
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="radyo" tvg-id="Radyolar.tr" tvg-logo="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" tvg-logo-small="https://w7.pngwing.com/pngs/449/919/png-transparent-square-gray-and-black-illustration-internet-radio-icon-radio-icon-radio-hd-electronics-microphone-logo.png" ,Radyolar
 http://kralwmp.radyotvonline.com/;
-#EXTINF:0 group-title="Radyo" tvg-id="Alem FM.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" ,Alem Fm
+#EXTINF:0 group-title="Radyo" tvg-id="Alem FM.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm-canli.png" ,Alem FM
 https://turkmedya.radyotvonline.net/alemfmaac
 #EXTINF:0 group-title="Radyo" tvg-id="Baba Radyo.tr" tvg-logo="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" tvg-logo-small="https://radyodi.com/wp-content/uploads/2019/05/baba-radyo.png" ,Baba Radyo
 http://46.20.7.116/babaradyoaac
