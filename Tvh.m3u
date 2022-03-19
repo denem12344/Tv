@@ -1,0 +1,165 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="trt1 tr" group-title="Ulusal",trt1 tr 
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" group-title="Ulusal",TRT Haber 
+http://84.22.33.214/TRTHaber/index.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR HD" group-title="Ulusal",TRT SPOR HD 
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" group-title="Ulusal",TRT Çocuk 
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Turk TR" group-title="Ulusal",TRT Turk TR 
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Star Tv türkiye" group-title="Ulusal",Star Tv türkiye 
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 tvg-name="Kanal D" group-title="Ulusal",Kanal D 
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 tvg-name="Show Tv" group-title="Ulusal",Show Tv 
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="ATVTurkiye.tr" group-title="Ulusal",ATVTurkiye.tr 
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Fox Türkiye" group-title="Ulusal",Fox Türkiye 
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="kanal 7" group-title="Ulusal",kanal 7 
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-name="TV8 HD" group-title="Ulusal",TV8 HD 
+http://mugla.tvizlehd.com/live/tv8.m3u8
+#EXTINF:-1 tvg-name="360" group-title="Ulusal",360 
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="beyazTv.tr" group-title="Ulusal",beyazTv.tr 
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-name="Flash Tv HD" group-title="Ulusal",Flash Tv HD 
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="ATVTurkiye.tr" group-title="Ulusal",ATVTurkiye.tr 
+http://mugla.tvizlehd.com/live/atvavrupa.m3u8
+#EXTINF:-1 tvg-name="EURO D" group-title="Ulusal",EURO D 
+https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="SHOW TV" group-title="Ulusal",SHOW TV 
+https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA HD" group-title="Ulusal",KANAL 7 AVRUPA HD 
+http://mugla.tvizlehd.com/live/kanal7avrupa.m3u8
+#EXTINF:-1 tvg-name="TV8 İNT" group-title="Ulusal",TV8 İNT 
+https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="EURO STAR" group-title="Ulusal",EURO STAR 
+https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="TGRT EU" group-title="Ulusal",TGRT EU 
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1 tvg-name="AFYON TÜRK TV HD" group-title="Sinema",AFYON TÜRK TV HD 
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Yaşam" group-title="Yaşam",Yaşam 
+https://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1 tvg-name="WM TV WOMAN KADIN" group-title="Yaşam",WM TV WOMAN KADIN 
+https://s01.vpis.io/wmtv/wmtv.m3u8
+#EXTINF:-1 tvg-name="Tlc HD" group-title="Yaşam",Tlc HD 
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-name="Belgesel" group-title="Belgesel",Belgesel 
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Dmax Hd" group-title="Belgesel",Dmax Hd 
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" group-title="Belgesel",TRT BELGESEL HD 
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Yaban Tv HD (Av Kanalı)" group-title="Belgesel",Yaban Tv HD (Av Kanalı) 
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-name="Haber" group-title="Haber",Haber 
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="CNN TURK" group-title="Haber",CNN TURK 
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV 
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-name="Habertürk" group-title="Haber",Habertürk 
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8?
+#EXTINF:-1 tvg-name="24" group-title="Haber",24 
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-name="Tgrt Haber" group-title="Haber",Tgrt Haber 
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playist.m3u8
+#EXTINF:-1 tvg-name="haberglobal.tr" group-title="Haber",haberglobal.tr 
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-name="Ülke TV" group-title="Haber",Ülke TV 
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tvnet" group-title="Haber",Tvnet 
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG  HT HD" group-title="Haber",BLOOMBERG  HT HD 
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-name="halktv.tr" group-title="Haber",halktv.tr 
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="TV 100 TR" group-title="Haber",TV 100 TR 
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="Tele 1" group-title="Haber",Tele 1 
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 tvg-name="Ulusal 2" group-title="Ulusal",Ulusal 2 
+https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="UÇANKUŞ TV" group-title="Ulusal",UÇANKUŞ TV 
+https://livex458745.livestreamlive.xyz/ucankus.m3u8
+#EXTINF:-1 tvg-name="teve2.tr" group-title="Ulusal",teve2.tr 
+https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="a2 TV TR" group-title="Ulusal",a2 TV TR 
+http://84.22.33.214/A2/index.m3u8
+#EXTINF:-1 tvg-name="Çocuk" group-title="ÇOCUK",Çocuk 
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?
+#EXTINF:-1 tvg-name="minikacocuk.tr" group-title="ÇOCUK",minikacocuk.tr 
+https://lives2.canlitv.center/minikacocuk.m3u8
+#EXTINF:-1 tvg-name="minikago.tr" group-title="ÇOCUK",minikago.tr 
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Türkiye" group-title="ÇOCUK",Disney Channel Türkiye 
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Muzik" group-title="MUZİK",Muzik 
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 tvg-name="KRAL TV" group-title="MUZİK",KRAL TV 
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 tvg-name="KRAL POP TV HD" group-title="MUZİK",KRAL POP TV HD 
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-name="Powerturk TR" group-title="MUZİK",Powerturk TR 
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1 tvg-name="Power TV HD" group-title="MUZİK",Power TV HD 
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:-1 tvg-name="Number One Türk HD" group-title="MUZİK",Number One Türk HD 
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="Dream Türk HD" group-title="MUZİK",Dream Türk HD 
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-name="PowerTürk Taptaze" group-title="MUZİK",PowerTürk Taptaze 
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-name="AKTUEL MUZİK TV" group-title="MUZİK",AKTUEL MUZİK TV 
+http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Radyolar" group-title="radyo",Radyolar 
+http://kralwmp.radyotvonline.com/;
+#EXTINF:-1 tvg-name="Alem FM" group-title="Radyo",Alem FM 
+https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1 tvg-name="Baba Radyo" group-title="Radyo",Baba Radyo 
+http://46.20.7.116/babaradyoaac
+#EXTINF:-1 tvg-name="Best FM" group-title="Radyo",Best FM 
+http://46.20.7.125/bestfmaac
+#EXTINF:-1 tvg-name="Radyo Fenomen" group-title="Radyo",Radyo Fenomen 
+https://listen.radyofenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1 tvg-name="İstanbul FM" group-title="Radyo",İstanbul FM 
+https://stream2.rtvtakip.com:7000/stream?icy=http
+#EXTINF:-1 tvg-name="Joy Turk" group-title="Radyo",Joy Turk 
+http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls
+#EXTINF:-1 tvg-name="Kral FM" group-title="Radyo",Kral FM 
+http://kralwmp.radyotvonline.com/;
+#EXTINF:-1 tvg-name="Kral Pop" group-title="Radyo",Kral Pop 
+http://kralpopwmp.radyotvonline.com/;
+#EXTINF:-1 tvg-name="NumberOneTürk Radyo" group-title="Radyo",NumberOneTürk Radyo 
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1 tvg-name="Ntv Radyo" group-title="Radyo",Ntv Radyo 
+http://ntvrdwmp.radyotvonline.com/;
+#EXTINF:-1 tvg-name="POWERTÜRK FM" group-title="Radyo",POWERTÜRK FM 
+https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:-1 tvg-name="Show Radyo" group-title="Radyo",Show Radyo 
+http://46.20.3.229/;
+#EXTINF:-1 tvg-name="TRT FM" group-title="Radyo",TRT FM 
+https://radio-trtfm.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Metro FM" group-title="radyo",Metro FM 
+http://23553.live.streamtheworld.com:80/METRO_FMAAC_SC
+#EXTINF:-1 tvg-name="Süper FM" group-title="radyo",Süper FM 
+http://23553.live.streamtheworld.com:80/SUPER_FMAAC_SC
+#EXTINF:-1 tvg-name="Radyo Alaturka" group-title="radyo",Radyo Alaturka 
+https://yayin.jumboserver.net/stream/alaturka
+#EXTINF:-1 tvg-name="AZ TV" group-title="AZERİ",AZ TV 
+http://109.205.166.68/server124/aztv/index.m3u8
+#EXTINF:-1 tvg-name="CBC SPORTS" group-title="AZERİ",CBC SPORTS 
+http://istanbul.tvizlehd.com/live/cbcsport.m3u8
+#EXTINF:-1 tvg-name="İCTİMAİ TV" group-title="AZERİ",İCTİMAİ TV 
+http://mugla.tvizlehd.com/live/ictimaitv.m3u8
+#EXTINF:-1 tvg-name="İDMAN TV" group-title="AZERİ",İDMAN TV 
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 tvg-name="XEZER TV" group-title="AZERİ",XEZER TV 
+http://109.205.166.68/server124/xazar_tv/index.m3u8
