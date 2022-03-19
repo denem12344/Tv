@@ -87,7 +87,7 @@ https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="Ulusal 2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png" ,Ulusal 2
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
-#EXTINF:1 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv Hd
+#EXTINF:1 group-title="Ulusal" tvg-id="UcanKusTV.tr" tvg-name="UÇANKUŞ TV" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/ucankus_20210104.png" ,Uçankuş Tv HD
 https://livex458745.livestreamlive.xyz/ucankus.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="teve2.tr" tvg-name="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png" ,Teve 2 HD
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
