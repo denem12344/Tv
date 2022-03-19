@@ -35,7 +35,7 @@ http://mugla.tvizlehd.com/live/atvavrupa.m3u8
 https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="showtv.tr" tvg-name="SHOW TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:1 group-title="Ulusal" tvg-id="kanal7.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" ,KANAL 7 AVRUPA
+#EXTINF:1 group-title="Ulusal" tvg-id="kanal7.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" ,KANAL 7 AVRUPA HD
 http://mugla.tvizlehd.com/live/kanal7avrupa.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" ,TV8 İNT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
@@ -57,7 +57,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:1 group-title="Belgesel" tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT BELGESEL HD
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:1 group-title="Belgesel" tvg-id="Yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv H D (Av Kanalı)
+#EXTINF:1 group-title="Belgesel" tvg-id="Yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:1 group-title="Haber" tvg-id="Haber.tr" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" ,Haber
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
