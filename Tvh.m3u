@@ -43,10 +43,6 @@ https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="FlashTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash TV
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:1 group-title="Ulusal" tvg-id="TVEM.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/81811713-b6b5-48ee-9fe7-d7907d5c2ebd.png" ,TV EM
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:1 group-title="Ulusal" tvg-id="tivi6.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ad7d8d40-a500-4885-ad06-08745d3a4efb" ,tivi6
-http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
 #EXTINF:1 group-title="Haber" tvg-id="TRTHaber.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" ,TRT Haber
 http://84.22.33.214/TRTHaber/index.m3u8
 #EXTINF:1 group-title="Haber" tvg-id="AHaber.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4e5563e7-113e-4d5f-bb5c-e0adbed43932.png" ,A Haber
