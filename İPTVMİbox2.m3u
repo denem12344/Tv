@@ -57,7 +57,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:1 group-title="Belgesel" tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/2560px-TRT_Belgesel_logo_%282019-%29.svg.png" ,TRT BELGESEL HD
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:1 group-title="Belgesel" tvg-id="Yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv HD (Av Kanalı)
+#EXTINF:1 group-title="Belgesel" tvg-id="Yaban.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" ,Yaban Tv H D (Av Kanalı)
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:1 group-title="Haber" tvg-id="Haber.tr" tvg-logo="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/H/haber-turk-logo-432A45E9F4-seeklogo.com.png" ,Haber
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
