@@ -42,9 +42,9 @@ https://av.livestreamlive.xyz/hls/kanal7.m3u8
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/--rXiyTlLwEo/VpjHgz6M3dI/AAAAAAAANvQ/rJ6N3a3Y3FQ/s1600/kanal7avrupa.jpg",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-s-iJMGwh60A/Xk17S3UJZlI/AAAAAAAAYGw/HNqwhjty1AgSWsFWnLtmmnOlPvAZj1C7ACLcBGAsYHQ/s1600/tv8.jpg",TV8 
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+http://mugla.tvizlehd.com/live/tv8.m3u8
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-s-iJMGwh60A/Xk17S3UJZlI/AAAAAAAAYGw/HNqwhjty1AgSWsFWnLtmmnOlPvAZj1C7ACLcBGAsYHQ/s1600/tv8.jpg",TV8 Seçenek 2
-http://79.124.14.198:8088/play/a070
+http://mugla.tvizlehd.com/live/tv8.m3u8
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-7ZzH3fcEAiI/WSgIO7Q1uTI/AAAAAAAAQ1A/bIWQ6-WA3Qg2uyS1pTABExpEmmE-jDiCwCLcB/s1600/tv8int.jpg",TV8 ÝNT
 http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-dkQ8Bj5p8TI/Xk17cYiKs8I/AAAAAAAAYG0/GqoXNkhopBY7zG_8sekMaBcQrcI7-loAgCLcBGAsYHQ/s1600/tv85.jpg",TV8,5
@@ -85,4 +85,3 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-8FZj4EuYcAk/Xk16-OoCJTI/AAAAAAAAYGg/TSbUsQycJEgluOag9KUoNQTpTVMVBp_eQCLcBGAsYHQ/s1600/trtturk.jpg",TRT TÜRK Seçenek 2
 https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-ulS3yI-
