@@ -163,3 +163,5 @@ http://mugla.tvizlehd.com/live/ictimaitv.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 group-title="AZERİ" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
+#EXTINF:0 ,TEST
+https://www.youtube.com/watch?v=fPpe3h3MZmg&t=3319s
