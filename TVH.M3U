@@ -29,7 +29,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 $ExtFilter= group-title="Ulusal" tvg-id="FlashTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 $ExtFilter= group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATVTurkiye.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" ,ATV AVRUPA
+#EXTINF:-1 $ExtFilter= group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATVTurkiye.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" ,ATV AVRUPA SD
 http://mugla.tvizlehd.com/live/atvavrupa.m3u8
 #EXTINF:-1 $ExtFilter= group-title="Ulusal" tvg-id="kanald.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/003b8f20-99c8-4559-8c42-ea036e109d89.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/003b8f20-99c8-4559-8c42-ea036e109d89.png" ,EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
