@@ -44,4 +44,4 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 $ExtFilter= group-title="Ulusal" tvg-id="tgrtHaber.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7dd52379-38e8-48c3-8c66-6e7aa38306e5.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/7dd52379-38e8-48c3-8c66-6e7aa38306e5.png" ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 $ExtFilter= group-title="Sinema" tvg-id="AfyonTürkTv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/70ee7126-3a8c-4b8a-b230-b5108c4548ff.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/70ee7126-3a8c-4b8a-b230-b5108c4548ff.png" ,AFYON TÜRK TV HD
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8?checkedby:iptvcat.com
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
