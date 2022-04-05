@@ -3623,4 +3623,6 @@
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="AfyonTürkTv.tr"><title lang="tr">AFYON TÜRK TV HD</title><category lang="tr">Ulusal/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221220185500 +0000" channel="RadyoAlaturka.tr"><title lang="tr">RADYO ALATURKA</title><category lang="tr">Ulusal/genel</category></programme>
 <programme start="20220201135500 +0000" stop="20221120185500 +0000" channel="Aktüel.tr"><title lang="tr">AKTÜEL TV HD </title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20221120185500 +0000" channel="Aktüel.tr"><title lang="tr">AKTÜEL TV HD </title><category lang="tr">Ulusal/genel</category></programme>
+<programme start="20220201135500 +0000" stop="20211213030000 +0000" channel="test.tr"><title lang="tr">TEST</title><desc lang="tr">TEST</desc><category lang="tr">0</category></programme>
 </tv>
