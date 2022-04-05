@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="kanal7.tr" tvg-name="kanal 7" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" ,Kanal 7 HD
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" ,TV8 HD
-http://mugla.tvizlehd.com/live/tv8.m3u8
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/193585?checkedby:iptvcat.com
 #EXTINF:1 group-title="Ulusal" tvg-id="360.tr" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" ,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" tvg-logo-small="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" ,Beyaz Tv HD
@@ -99,8 +99,6 @@ http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?
 https://lives2.canlitv.center/minikacocuk.m3u8
 #EXTINF:1 group-title="ÇOCUK" tvg-id="minikago.tr" tvg-name="minikago.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/c/c9/MinikaGO_Logo.png" ,MİNİKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
-#EXTINF:1 group-title="ÇOCUK" tvg-id="DisneyChannelTurkiye.us" tvg-name="Disney Channel Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" ,DİSNEY CHANNEL
-http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:1 group-title="MUZİK" tvg-id="Muzik.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/e/ed/Power_of_Muzik_Logo.png" ,Muzik
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:1 group-title="MUZİK" tvg-id="Kral TV.tr" tvg-name="KRAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/archive/5/55/20110124100258%21Kral_TV_logosu.png" ,KRAL TV
@@ -163,5 +161,5 @@ http://mugla.tvizlehd.com/live/ictimaitv.m3u8
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 group-title="AZERİ" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
-#EXTINF:0 ,TEST
-https://rr3---sn-u0g3uxax3-pnu6.googlevideo.com/videoplayback?expire=1648176907&ei=q9o8Yum3LtGK6dsPxtCFsAQ&ip=88.243.213.232&id=o-AKA2m60YFq17Aso-R3XY9C-Czu-9A8JzkSoas7awlSOx&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=4O&mm=31%2C29&mn=sn-u0g3uxax3-pnu6%2Csn-nv47ln7s&ms=au%2Crdu&mv=m&mvi=3&pl=20&initcwndbps=676250&vprv=1&mime=video%2Fwebm&ns=xGp3ZPGD4KbUNQNpdhM66H8G&gir=yes&clen=1640171817&dur=5347.592&lmt=1540866598452983&mt=1648154944&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&txp=5432432&n=j5IOS8muWBakGA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAN5PH2l_fXH2wcuQK2mhIu6Bz2p22vnI_O8uYap28gR9AiEA2pCg8NPcFf7gq5bpf5GC6rpnTrWRWlXuEgwQJJYTR-M%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANWSyF5FyqnEgzcKCqx2DUuY3ARaLCWBOEW79s42gzPOAiB4_TcyDqfHHMCXeqTSM2WwRWC0xKWVUNu1MnIIA63a-w%3D%3D&alr=yes&cpn=0h_6Cwyvr1LRqPc8&cver=1.20220322.01.00&range=1096382521-1097919173&rn=36&rbuf=69016
+#EXTINF:0 group-title="TEST" tvg-id="test.tr" ,TEST2
+http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
