@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="kanal7.tr" tvg-name="kanal 7" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" ,Kanal 7 HD
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" ,TV8 HD
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/193585?checkedby:iptvcat.com
+http://190.2.148.141:80/bar1118/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1 group-title="Ulusal" tvg-id="360.tr" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" ,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" tvg-logo-small="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" ,Beyaz Tv HD
@@ -30,13 +30,13 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="FlashTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/fa6e9dbc-5254-4418-afdb-5db1c64175c9.png" ,Flash Tv HD
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATVTurkiye.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/eb601475-87a8-4b90-aefc-05d8d7134e00.png" ,ATV AVRUPA
-http://mugla.tvizlehd.com/live/atvavrupa.m3u8
+http://luxtv.one:8080/kadiri/123456/2043?checkedby:iptvcat.com
 #EXTINF:1 group-title="Ulusal" tvg-id="kanald.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/003b8f20-99c8-4559-8c42-ea036e109d89.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/003b8f20-99c8-4559-8c42-ea036e109d89.png" ,EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="showtv.tr" tvg-name="SHOW TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="kanal7.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/8802dc9f-8e8c-4e76-bbe9-83e26b0902c4.png" ,KANAL 7 AVRUPA HD
-http://mugla.tvizlehd.com/live/kanal7avrupa.m3u8
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/451500bb-f2bc-491f-a0bb-72d45790832e.png" ,TV8 İNT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="starTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" tvg-logo-small="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" ,EURO STAR
