@@ -139,7 +139,7 @@ http://kralpopwmp.radyotvonline.com/;
 https://n10101m.mediatriple.net/numberoneturk
 #EXTINF:1 group-title="Radyo" tvg-id="NtvRadyo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ce/NTV_Radyo_logosu.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/c/ce/NTV_Radyo_logosu.png" ,Ntv Radyo
 http://ntvrdwmp.radyotvonline.com/;
-#EXTINF:1 group-title="Radyo" tvg-id="PowerTürkFm.tr" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-canli.png" ,POWERTÜRK FM
+#EXTINF:1 group-title="Radyo" tvg-id="PowerTürkFm.tr" tvg-name="POWERTÜRK FM" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-canli.png" tvg-logo-small="https://www.canliradyodinle.fm/wp-content/uploads/power-turk-canli.png" ,POWERTÜRK FM
 https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
 #EXTINF:1 group-title="Radyo" tvg-id="Show Radyo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e7/Showradyo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/tr/e/e7/Showradyo.jpg" ,Show Radyo
 http://46.20.3.229/;
