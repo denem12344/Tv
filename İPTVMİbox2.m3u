@@ -15,7 +15,7 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="showtv.tr" tvg-name="Show Tv" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png" ,Show Tv Hd
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1 group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATVTurkiye.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" ,ATV HD
+#EXTINF:1 group-title="Ulusal" tvg-id="ATVTurkiye.tr" tvg-name="ATV Türkiye" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/atv.png" ,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:1 group-title="Ulusal" tvg-id="FoxTurkiye.us" tvg-name="Fox Türkiye" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" ,FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
@@ -162,4 +162,4 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:1 group-title="AZERİ" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
 http://109.205.166.68/server124/xazar_tv/index.m3u8
 #EXTINF:0 group-title="TEST" tvg-id="test.tr" ,TEST2
-http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+udp://@239.254.2.22:5000
