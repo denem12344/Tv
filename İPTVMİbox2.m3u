@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="kanal7.tr" tvg-name="kanal 7" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png" ,Kanal 7 HD
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="tv8.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png" ,TV8 HD
-http://190.2.148.141:80/bar1118/index.m3u8?checkedby:iptvcat.com
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1651878603&st=L9Y5lCGiuuSdmVtwspercw
 #EXTINF:1 group-title="Ulusal" tvg-id="360.tr" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" tvg-logo-small="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" ,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:1 group-title="Ulusal" tvg-id="beyazTV.tr" tvg-name="beyazTv.tr" tvg-logo="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" tvg-logo-small="https://iconape.com/wp-content/files/hm/285843/svg/285843.svg" ,Beyaz Tv HD
@@ -159,7 +159,3 @@ http://istanbul.tvizlehd.com/live/cbcsport.m3u8
 http://mugla.tvizlehd.com/live/ictimaitv.m3u8
 #EXTINF:1 group-title="AZERİ" tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-logo-small="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" ,İDMAN TV
 http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:1 group-title="AZERİ" tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/5Z2pVHs.png" tvg-logo-small="https://i.imgur.com/5Z2pVHs.png" ,XEZER TV
-http://109.205.166.68/server124/xazar_tv/index.m3u8
-#EXTINF:0 group-title="TEST" tvg-id="test.tr" ,TEST2
-udp://@239.254.2.22:5000
