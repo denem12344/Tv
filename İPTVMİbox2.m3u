@@ -157,5 +157,5 @@ http://109.205.166.68/server124/aztv/index.m3u8
 http://istanbul.tvizlehd.com/live/cbcsport.m3u8
 #EXTINF:1 group-title="AZERİ" tvg-id="IctimaiTV.az" tvg-logo="https://i.imgur.com/qEQzBiV.png" tvg-logo-small="https://i.imgur.com/qEQzBiV.png" ,İCTİMAİ TV
 http://mugla.tvizlehd.com/live/ictimaitv.m3u8
-#EXTINF:1 group-title="AZERİ" tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-logo-small="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" ,İDMAN TV
+#EXTINF:1 group-title="AZERİ" tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-logo-small="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" ,İDMAN Tv
 http://109.205.166.68/server124/idman_az/index.m3u8
