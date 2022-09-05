@@ -1,0 +1,21 @@
+﻿#EXTM3U
+#EXTINF:1 tvg-id="TRT1.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" group-title="Ulusal",TRT 1https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:1 tvg-id="ATVTurkiye.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" group-title="Ulusal",atv
+https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+#EXTINF:1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Ulusal",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+#EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+#EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Ulusal",Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
+http://mugla.tvizlehd.com/live/tv8.m3u8
+#EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Ulusal",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+#EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" 
